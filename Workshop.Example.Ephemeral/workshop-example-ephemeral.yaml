@@ -176,7 +176,7 @@
     - name: "SOURCE_REPOSITORY_URL"
       displayName: "Git Repository URL"
       description: "The URL of the repository with your application source code."
-      value: "https://github.com/orangekmt/OpenshiftTemplates.git"
+      value: "https://github.com/orangekmt/workshop-example-prod.git"
     - name: "SOURCE_REPOSITORY_CONTEXT"
       displayName: "Git Repository Context Directory"
       description: "The location inside the repository where your application source code resides."
